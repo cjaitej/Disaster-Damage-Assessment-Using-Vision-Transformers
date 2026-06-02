@@ -1,0 +1,18 @@
+torch
+torchvision
+
+numpy==1.26.3
+scipy==1.11.2
+Pillow==9.5.0
+tqdm==4.66.1
+matplotlib==3.7.3
+click==8.1.7
+requests==2.31.0
+PyYAML
+
+einops>=0.6.0
+python-hostlist>=1.21
+timm==0.4.12
+mmsegmentation==0.14.1
+# mmcv
+ipywidgets
