@@ -112,4 +112,4 @@ This project is released for academic and research purposes. Please cite appropr
 - [RescueNet Dataset](https://github.com/BinaLab/RescueNet-A-High-Resolution-Post-Disaster-UAV-Dataset-for-Semantic-Segmentation) by Rahnemoonfar et al.
 - [Swin Transformer](https://github.com/microsoft/Swin-Transformer)
 - [SegFormer](https://github.com/NVlabs/SegFormer)
-- Training compute provided by Paperspace Gradient
+- [Attention UNet](https://arxiv.org/abs/1804.03999)
