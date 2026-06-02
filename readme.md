@@ -99,6 +99,12 @@ L_seg   = 0.4 * L_focal + 0.6 * L_lovasz
 
 ---
 
+## 🖼️ Examples
+
+### Model Comparison (Base vs Ours)
+
+![Model Comparison](https://github.com/cjaitej/Disaster-Damage-Assessment-Using-Vision-Transformers/blob/main/o1.png)
+
 
 
 ## 📄 License
